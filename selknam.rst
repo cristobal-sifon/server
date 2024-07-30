@@ -61,8 +61,8 @@ Data
 The following public  data are available as read-only to all users:
 
 .. list-table:: 
-	:widths: 30 40 30
-	:header-rows: 1
+    :widths: 30 40 30
+    :header-rows: 1
 
     * - Directory
       - Content
