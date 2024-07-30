@@ -60,9 +60,21 @@ Data
 
 The following public  data are available as read-only to all users:
 
-* ``/data2/decals/``: DECaLS DR9, DR10, and DR10.1 sweeps and photometric redshift sweeps (except DR10). See `Legacy Survey <https://www.legacysurvey.org/decamls/>`_ for latest information and `here <https://www.legacysurvey.org/acknowledgment/>`_ for acknowledgements.
+.. list-table::
+	:header-rows: 1
 
-* ``/data2/act/``: ACT DR4 (`Madhavacheril et al. 2020 <https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b3534M/abstract>`_) and DR6 (`Coulton et al. 2024 <https://ui.adsabs.harvard.edu/abs/2024PhRvD.109f3530C/abstract>`_) component separated maps.
+	* - Directory
+	  - Content
+	  - References or acknowledgements
+    * - ``/data2/decals/``
+      - DECaLS DR9, DR10, and DR10.1 sweeps and photometric redshift sweeps (except DR10)
+      - See `Legacy Survey <https://www.legacysurvey.org/decamls/>`_ for latest information and `here <https://www.legacysurvey.org/acknowledgment/>`_ for acknowledgements.
+    * - ``/data2/act/dr4``
+      - ACT DR4 component-separated maps
+      - `Madhavacheril et al. (2020) <https://ui.adsabs.harvard.edu/abs/2020PhRvD.102b3534M/abstract>`_
+    * - ``/data2/act/dr6``
+      - ACT DR6 component-separated maps
+      - `Coulton et al. 2024 <https://ui.adsabs.harvard.edu/abs/2024PhRvD.109f3530C/abstract>`_
 
 
 Acknowledgements
